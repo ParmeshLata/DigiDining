@@ -57,7 +57,18 @@ digital-mess-management/
 ## **Technologies Used**  
 - **Python**: Core programming language.  
 - **Microsoft Excel**: For data storage.  
-- **Any IDE**: To run the program file. 
+- **Any IDE**: To run the program file.
+
+## **Code Outlook**
+
+### **Working Code**
+![](https://github.com/ParmeshLata/DigiDining/blob/main/main_code.png)
+
+### **Helper Module Code**
+![](https://github.com/ParmeshLata/DigiDining/blob/main/functions_code.png)
+
+### **User Inetrface**
+![](https://github.com/ParmeshLata/DigiDining/blob/main/output.png)
 
 ## **Contact**  
 For any queries or feedback, feel free to contact:  
